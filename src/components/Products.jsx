@@ -9,4 +9,5 @@ function Product({ product, onAddToCart }) {
     </div>
   );
 }
+
 export default Product;
